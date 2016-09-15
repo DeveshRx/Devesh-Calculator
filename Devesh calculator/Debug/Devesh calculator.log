@@ -1,0 +1,3 @@
+﻿  Devesh calculator.cpp
+CL(4): error C2858: command-line option 'program database name (/Fd)' inconsistent with precompiled header, which used '/Fde:\devesh inc\cc++\devesh calculator\devesh calculator\debug\vc100.pdb'
+CL(4): fatal error C1033: cannot open program database ''
